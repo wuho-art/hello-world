@@ -1,9 +1,9 @@
 # hello-world
-hello-world
 # jho 何瓊珠 --2019/10/24
-change 22222
-測試Python安裝狀況
-Binder Open In Colab
+# 測試Python安裝狀況
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/test_installation/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/test_installation/)
 
 這個 Repo 裡面的檔案主要用來測試大家 Anaconda 跟 Visual Studio Code 的安裝狀況！
 
